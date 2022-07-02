@@ -1,4 +1,4 @@
-# muda
+# whenami
 Zanzibar-like authorization engine extended to use time intervals object#relation@subject+from~to
 
 Re-implementing Zanzibar properly is not a trival process. See for example [Ory Keto](https://www.ory.sh/docs/keto).
